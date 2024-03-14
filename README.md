@@ -1,1 +1,16 @@
 # Pet-Finder-Data-Warehouse
+To use create a similar data warehouse, you need to:
+1. [Installation Guide](#installation-guide)
+2. [Introduction to SQL](#introduction-to-sql)
+3. [Querying Data](#querying-data)
+4. [Modifying Data](#modifying-data)
+5. [Data Types and Constraints](#data-types-and-constraints)
+6. [Joins and Relationships](#joins-and-relationships)
+7. [Aggregation and Grouping](#aggregation-and-grouping)
+8. [Subqueries and Views](#subqueries-and-views)
+9. [Indexing and Performance Optimization](#indexing-and-performance-optimization)
+10. [Transactions and Concurrency Control](#transactions-and-concurrency-control)
+11. [Advanced Topics](#advanced-topics)
+12. [Best Practices](#best-practices)
+13. [Recommended Learning Resources](#recommended-learning-resources)
+14. [Exercises and Solutions](#exercises-and-solutions)

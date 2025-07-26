@@ -16,6 +16,9 @@ def rot_18(var1 : str) -> str:
     
     return result
 
+def forking_test:
+    pass
+
 sentence = input("Please enter a sentence needed to be encode / decode by ROT-18: ")
 
 if len(sentence) == 0 or sentence.isspace() or not sentence.isprintable():
